@@ -144,4 +144,22 @@ Vp = 6.14 V
   
   -Para 1000 Hz
   
+3.- Análisis de resultados 
+
+Para  cada uno de los circuitos anteriores, elabore una tabla  con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas. 
+
+4.- Preguntas
+
+ ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
+ 
+ ¿Cómo se comportan la bobina y el capacitor en corriente alterna? 
+ 
+ ¿Qué cree usted que ocurriría con el voltaje V0  y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de   valores  distintos?
+ 
+ ¿Qué son los valores eficaces de voltaje y corriente?
+ 
+ 
 5. Conclusiones
+
+6. Biblíografia
+
