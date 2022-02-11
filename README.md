@@ -28,7 +28,7 @@ Integrantes: Flores Samuel, Cela Lizz, Sánchez Isaac
 
 4. Procedimiento
 
-1. Construya en el protoboard el circuito mostrado en la Figura 1.
+1.- Construya en el protoboard el circuito mostrado en la Figura 1.
 
 ![image](https://user-images.githubusercontent.com/94079321/153527880-5a3c2e22-97a1-4bbc-ba79-9d51ae22ca03.png)
 
@@ -98,7 +98,7 @@ Vp = 6.14 V
   
   -Para 1000 Hz
   
-2. Construya en el protoboard el circuito mostrado en la Figura 2.
+2.- Construya en el protoboard el circuito mostrado en la Figura 2.
 
 ![image](https://user-images.githubusercontent.com/94079321/153527912-ce818b41-f28a-42c2-b099-00aefbc50d90.png)
 
