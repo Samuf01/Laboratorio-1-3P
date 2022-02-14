@@ -106,16 +106,28 @@ Vp = 6.14 V
   
   -Para 0 Hz
   
+  ![image](https://user-images.githubusercontent.com/94079321/153964313-39937b90-f823-4968-94bf-58aef226ecfd.png)
+
   -Para 10 Hz
-  
+
+![image](https://user-images.githubusercontent.com/94079321/153964346-63889a66-4efe-4e05-b9f4-3b0fcf06cec5.png)
+
   -Para 50 Hz
   
+  ![image](https://user-images.githubusercontent.com/94079321/153964393-0e4935b7-5498-47ec-b232-47d534839c16.png)
+
   -Para 100 Hz
   
+  ![image](https://user-images.githubusercontent.com/94079321/153964409-e3f4a71b-d50d-4bca-8555-9b4293553775.png)
+
   -Para 500 Hz
   
+  ![image](https://user-images.githubusercontent.com/94079321/153964434-19657750-5c58-48dd-9fc9-17a3f93053e6.png)
+
   -Para 1000 Hz  
   
+  ![image](https://user-images.githubusercontent.com/94079321/153964450-c4cbd6dc-6c0d-4ce4-bb80-66cbd0abe6c5.png)
+
   b) Utilice un multímetro para medir el voltaje V0 variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
   
   -Para 0 Hz
@@ -155,11 +167,16 @@ Para  cada uno de los circuitos anteriores, elabore una tabla  con los resultado
  ¿Cómo se comportan la bobina y el capacitor en corriente alterna? 
  
  ¿Qué cree usted que ocurriría con el voltaje V0  y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de   valores  distintos?
- 
+
+En el caso del primer circuito, si se utilizan capacitores de diferentes valores, habrá pequeñas variaciones de voltaje y amperaje; En cambio, para el circuito 2, si se utilizan dos bobinas con valores diferentes, el amperaje se mantiene constante, es decir,  sin cambios, pero la diferencia de potencial tiende a aumentar o disminuir.
+
  ¿Qué son los valores eficaces de voltaje y corriente?
  
+Los valores eficaces de voltaje y corriente sserian aquellos valores que disponen de una corriente continua que produjera la misma potencia que la corriente alterna para dicho caso específico, es decir, un valor eficaz es el cual al aplicar una corriente alterna y luego continua sobre una resistencia la potencia debe ser igual.
  
 5. Conclusiones
 
 6. Biblíografia
+
+•Floyd, T. (2007). Principios de circuitos eléctricos. Ciudad de México: Pearson Eduación.
 
