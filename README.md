@@ -180,3 +180,7 @@ Los valores eficaces de voltaje y corriente sserian aquellos valores que dispone
 
 •Floyd, T. (2007). Principios de circuitos eléctricos. Ciudad de México: Pearson Eduación.
 
+Francisco, J. (2015, 18 mayo). Valores de una onda o señal alterna (senoidal) | Departamento de Electricidad-Electrónica. BLOG. Recuperado 14 de febrero de 2022, de https://cifpn1.com/electronica/?p=4113#:%7E:text=Valor%20eficaz%2C%20V%20(o%20Vef,otra%2C%20sobre%20una%20misma%20resistencia.
+
+
+
