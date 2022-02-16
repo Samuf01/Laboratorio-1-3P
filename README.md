@@ -179,32 +179,56 @@ Corriente= 70.493 mA
   b) Utilice un multímetro para medir el voltaje V0 variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
   
   -Para 0 Hz
-  
+
+![image](https://user-images.githubusercontent.com/94079321/154196677-355251a7-e817-4b23-8c3c-e7d16957889c.png)
+
   -Para 10 Hz
-  
+
+![image](https://user-images.githubusercontent.com/94079321/154196712-bd151eaa-56a1-47ad-9541-688b39ae5b38.png)
+
   -Para 50 Hz
-  
+
+![image](https://user-images.githubusercontent.com/94079321/154196761-fbb8b72b-aa7c-48b9-98b4-29e92d60b6e6.png)
+
   -Para 100 Hz
-  
+
+![image](https://user-images.githubusercontent.com/94079321/154196791-9e6bd0de-c839-4ae0-874b-c3a51dafa4a9.png)
+
   -Para 500 Hz
-  
+
+![image](https://user-images.githubusercontent.com/94079321/154196825-9297cc66-e2d9-487a-b40a-e76754803ee9.png)
+
   -Para 1000 Hz
-  
+
+![image](https://user-images.githubusercontent.com/94079321/154196858-d6f34382-c5ff-4ab9-ae93-abb355cd26f3.png)
+
   c) Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
   
   -Para 0 Hz
-  
+
+![image](https://user-images.githubusercontent.com/94079321/154196944-26ada7f7-1581-4fda-a25d-dc992708272c.png)
+
   -Para 10 Hz
-  
+
+![image](https://user-images.githubusercontent.com/94079321/154196978-6b2e60ad-f4c3-4389-a2f9-6699d59de402.png)
+
   -Para 50 Hz
-  
+
+![image](https://user-images.githubusercontent.com/94079321/154197011-707518b0-73a7-4a6a-96e9-4962ab46f6f8.png)
+
   -Para 100 Hz
-  
+
+![image](https://user-images.githubusercontent.com/94079321/154197054-a4e15266-22a5-450c-85af-63ad332f46f2.png)
+
   -Para 500 Hz
-  
+
+![image](https://user-images.githubusercontent.com/94079321/154197079-7dcfabda-5aa0-4fd7-800c-f23f780bac3d.png)
+
   -Para 1000 Hz
   
-3.- Análisis de resultados 
+![image](https://user-images.githubusercontent.com/94079321/154197110-2ef5f79b-c0cc-41d4-b207-74b004affea3.png)
+
+3.- Análisis de resultados
 
 Para  cada uno de los circuitos anteriores, elabore una tabla  con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas. 
 
