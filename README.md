@@ -236,8 +236,16 @@ Para  cada uno de los circuitos anteriores, elabore una tabla  con los resultado
 
  ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
  
+Los capacitores en un circuito de corriente continua pasan por dos fases conocidas como fase  de  transición  y  fase  de  continua.  En  la  fase  de  estabilización,  se  producen  los fenómenos que se describen en las curvas de carga del capacitor hasta que se estabiliza y pasa a estar en fase continua, en esta fase la intensidad de corriente que atravesaría el capacitor es igual a cero entonces se lo toma como una “ rama abierta” en el circuito
+ 
+En los inductores al ser la corriente constante la caída de tensión sobre ellos es igual a cero, por lo que lo interpretamos como simplemente un “cable” en el circuito.
+
  ¿Cómo se comportan la bobina y el capacitor en corriente alterna? 
  
+ El comportamiento de los capacitores en corriente alterna dependerá de las funciones que describan su comportamiento en un intervalo de tiempo definido.
+ 
+Entonces se  puede representar al capacitor como un elemento pasivo más en el circuito.  Al  existir  una  variación  de  la  corriente  en  un  circuito  de  corriente  alterna  es  posible conocer los valores que pueden tomar la corriente y la caída de tensión por medio de las funciones que describan a estas variables en un intervalo de tiempo definido. Entonces se  puede representar al inductor como un elemento pasivo más en el circuito.
+
  ¿Qué cree usted que ocurriría con el voltaje V0  y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de   valores  distintos?
 
 En el caso del primer circuito, si se utilizan capacitores de diferentes valores, habrá pequeñas variaciones de voltaje y amperaje; En cambio, para el circuito 2, si se utilizan dos bobinas con valores diferentes, el amperaje se mantiene constante, es decir,  sin cambios, pero la diferencia de potencial tiende a aumentar o disminuir.
