@@ -232,6 +232,15 @@ Corriente= 70.493 mA
 
 Para  cada uno de los circuitos anteriores, elabore una tabla  con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas. 
 
+TABLA DE LA FIGURA 1
+
+![image](https://user-images.githubusercontent.com/94079321/154312406-72ec274c-12c2-4996-961d-96f7ea61049b.png)
+
+
+TABLA DE LA FIGURA 2
+
+![image](https://user-images.githubusercontent.com/94079321/154312452-37280244-8708-435f-9da3-2c496828e20c.png)
+
 4.- Preguntas
 
  ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
@@ -262,5 +271,5 @@ Los valores eficaces de voltaje y corriente sserian aquellos valores que dispone
 
 Francisco, J. (2015, 18 mayo). Valores de una onda o señal alterna (senoidal) | Departamento de Electricidad-Electrónica. BLOG. Recuperado 14 de febrero de 2022, de https://cifpn1.com/electronica/?p=4113#:%7E:text=Valor%20eficaz%2C%20V%20(o%20Vef,otra%2C%20sobre%20una%20misma%20resistencia.
 
-
+Emanuel, A. (2014, 24 febrero). Boninas y Capacitores. PDF. Recuperado 10 de febrero de 2022, de https://www.monografias.com/trabajos100/boninas-y-capacitores/boninas-y-capacitores
 
