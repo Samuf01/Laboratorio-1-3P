@@ -73,31 +73,79 @@ Vp = 6.14 V
   b) Utilice un multímetro para medir el voltaje V0 variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
 
   -Para 0 Hz
-  
+
+![image](https://user-images.githubusercontent.com/94079321/154190616-ba295ca4-7f8b-47ba-bdfc-8013f0355395.png)
+
+Vo= 0V
+
   -Para 10 Hz
-  
+
+![image](https://user-images.githubusercontent.com/94079321/154190720-0ee6f040-31c6-40a1-9c68-55ebc10898a0.png)
+
+Vo= 7.014V
+
   -Para 50 Hz
-  
+ 
+![image](https://user-images.githubusercontent.com/94079321/154191909-49429985-125a-4944-a815-1a7222074375.png)
+ 
+V o= 6.965V
+
   -Para 100 Hz
-  
+
+![image](https://user-images.githubusercontent.com/94079321/154192039-a6a3bf44-08d4-4392-8bc2-8b6004793048.png)
+
+Vo= 4.368V
+
   -Para 500 Hz
   
+![image](https://user-images.githubusercontent.com/94079321/154192159-1fba93b8-1688-46ff-aea8-2b3c0fef7cfe.png)
+
+Vo= 1.097V
+
   -Para 1000 Hz
-  
+
+![image](https://user-images.githubusercontent.com/94079321/154192538-6cd17d03-375f-433a-a896-94d2b5f188e2.png)
+
+Vo= 553.713 mV 
+
   c) Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
   
   -Para 0 Hz
-  
+
+![image](https://user-images.githubusercontent.com/94079321/154192670-e9df20bf-02da-4963-bf2a-42f360de6a53.png)
+
+Corriente= 0A
+
   -Para 10 Hz
-  
+
+![image](https://user-images.githubusercontent.com/94079321/154193126-bf005ade-45db-4890-90b8-9deef464a425.png)
+
+Corriente= 8.929 mA
+
   -Para 50 Hz
-  
+
+![image](https://user-images.githubusercontent.com/94079321/154193258-9ae565df-8627-497b-8f37-2a53d0ab3905.png)
+
+Corriente= 37.967 mA
+
   -Para 100 Hz
-  
+
+![image](https://user-images.githubusercontent.com/94079321/154193395-3c1df73b-d953-4b3a-beb4-28189fb73467.png)
+
+Corriente= 55.605 mA
+
   -Para 500 Hz
-  
+
+![image](https://user-images.githubusercontent.com/94079321/154193499-c3f21d45-10eb-4ac0-964e-ad4b8dac71a1.png)
+
+Corriente= 69.851 mA
+
   -Para 1000 Hz
-  
+
+![image](https://user-images.githubusercontent.com/94079321/154193553-743c1bed-a63f-48b8-b8d8-de8af7980907.png)
+
+Corriente= 70.493 mA
+
 2.- Construya en el protoboard el circuito mostrado en la Figura 2.
 
 ![image](https://user-images.githubusercontent.com/94079321/153527912-ce818b41-f28a-42c2-b099-00aefbc50d90.png)
