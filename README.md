@@ -6,8 +6,13 @@ Integrantes: Flores Samuel, Cela Lizz, Sánchez Isaac
 
   1.1. Objetivo General
   
+Comprender el funcionamiento de inductores y capacitores mediante la construcción de circuitos en las plataformas Dcaclab y Multisim, y verificar su funcionamiento para circuitos DC y AC.
+  
   1.2. Objetivo Especifico
   
+- Aprender el correcto uso de los distintos instrumentos empleados y lograr acercarlos lo mas posible a la realidad de un laboratorio físico.
+- Observar el comportamiento que tiene los inductores y capacitores analizando el comportamiento en circuitos DC y AC, y de esta forma identificar que elementos de los circuitos se encuentran en serie y en paralelo a fin de armar correctamente el circuito.
+
 2. Información general
 
 
@@ -264,6 +269,10 @@ En el caso del primer circuito, si se utilizan capacitores de diferentes valores
 Los valores eficaces de voltaje y corriente sserian aquellos valores que disponen de una corriente continua que produjera la misma potencia que la corriente alterna para dicho caso específico, es decir, un valor eficaz es el cual al aplicar una corriente alterna y luego continua sobre una resistencia la potencia debe ser igual.
  
 5. Conclusiones
+
+- Los distintos instrumentos empleados permitian de forma eficaz observar los valores generados en los dos circuitos que empleaban inductores y capacitores.4
+
+- Se logró verificar de manera correcta el comportamiento de los capacitores e inductores en conjunto con una resistencia para los circuitos con DC y AC, mediante la toma de mediciones de voltaje y analizando la onda sinusoidal con respecto a valores pico, tiempo, periódo y ciclo.
 
 6. Biblíografia
 
